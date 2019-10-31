@@ -1,0 +1,20 @@
+{
+    "name": "mintsmm/bootstrappremium",
+    "description": "Bootstrap Premium WordPress Starter",
+    "keywords": ["WordPress", "Theme", "Starter"],
+    "homepage": "https://github.com/mintsmm/Bootstrap-Premium",
+    "license": "GPL-3.0",
+    "version": "1.0.0",
+    "authors": [{
+        "name": "Tristan Elliott",
+        "email": "tristan@mintsmm.com",
+        "homepage": "http://mintsmm.com",
+        "role": "Developer"
+    }],
+    "require-dev": {
+        "jakub-onderka/php-parallel-lint": "^1.0.0",
+        "phpcompatibility/phpcompatibility-wp": "^2.0.0",
+        "wp-coding-standards/wpcs": "^2.0.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0"
+    }
+}
